@@ -17,7 +17,7 @@ Training notebooks are included to help you customize and fine-tune models to su
 7.  [Project Structure](#-project-structure)
 8.  [Future Work](#-future-work)
 9.  [Contributing](#-contributing)
-10. [License](#-license)
+   
 
 ---
 
