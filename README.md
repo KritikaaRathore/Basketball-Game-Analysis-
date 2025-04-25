@@ -184,8 +184,6 @@ Contributions are welcome!
 3. Submit a pull request with a clear explanation of your changes.
 
 ---
-ck?
-
 Feel free to open an issue or reach out via email if you have questions about the project, suggestions for improvements, or just want to say hi!
 
 Enjoy analyzing basketball footage with automatic detection and tracking!
